@@ -11,4 +11,11 @@ public class User {
     private String address;
     private String phone;
 
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
 }
