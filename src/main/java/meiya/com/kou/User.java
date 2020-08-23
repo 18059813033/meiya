@@ -24,8 +24,8 @@ public class User {
         System.out.println("kouxl456修改了equals方法");
         System.out.println("kouxl456修改了equals方法");
         System.out.println("kouxl456修改了equals方法");
-        System.out.println("kouxl456修改了equals方法");
-        System.out.println("kouxl456修改了equals方法");
+        System.out.println("kouxl123修改了equals方法");
+        System.out.println("kouxl123修改了equals方法");
         return super.equals(obj);
     }
 }
