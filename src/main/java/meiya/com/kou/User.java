@@ -18,4 +18,14 @@ public class User {
     public void setId(int id) {
         this.id = id;
     }
+
+    @Override
+    public boolean equals(Object obj) {
+        System.out.println("kouxl456修改了equals方法");
+        System.out.println("kouxl456修改了equals方法");
+        System.out.println("kouxl456修改了equals方法");
+        System.out.println("kouxl456修改了equals方法");
+        System.out.println("kouxl456修改了equals方法");
+        return super.equals(obj);
+    }
 }
